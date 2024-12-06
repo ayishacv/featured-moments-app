@@ -78,7 +78,7 @@ const Carousel = () => {
             <Header>
                 <TitleDescription>
                     <h1>Featured Moments</h1>
-                    <p>Our experiences reflect our distinct ethos and core values...</p>
+                    <p>Our experiences reflect our distinct ethos and core values, highlighting<br></br>the very best each of our homes offers.</p>
                 </TitleDescription>
                 <ArrowButtonContainer>
                     <ArrowButton
